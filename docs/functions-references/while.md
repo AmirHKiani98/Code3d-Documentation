@@ -22,7 +22,7 @@ while i < 12:
     i += 1
 ```
 - This runs 12 times with i from 0..11 by default.  
-- Want 1-based? Initialize i = 1 and use i <= 12 (or i < 13).
+- Want 1-based? Initialize `i = 1` and use `i <= 12` (or `i < 13`).
 
 ## Conditional loop
 While loops are ideal when the number of iterations depends on a condition (e.g., waiting for user input or an event):
