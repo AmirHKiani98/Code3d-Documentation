@@ -14,7 +14,7 @@ This section documents the building blocks used when defining user functions.
 - [Mathematical Operations](./mathematical-operations): arithmetic operators and numeric expressions.
 - [For-Loops](./for-loop): iterate over sequences and collections.
 - [While-Loops](./while): run repeated logic while a condition remains true.
-- [In-Built Functions](./in-builts): Python-style built-ins such as `filter`, `range`, `sort`, and `lambda`.
+- [In-Built Functions](./methods/in-builts): Python-style built-ins such as `filter`, `range`, `sort`, and `lambda`.
 
 ## Typical Flow
 
